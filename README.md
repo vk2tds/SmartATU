@@ -32,6 +32,17 @@ https://ok1tk.com/atu-100-arduino-remote-control/
 
 https://icomuk.co.uk/files/icom/PDF/advancedManuals/IC-7300_Full_English%20v6.pdf
 
+https://github.com/richardhosking/SWR-Power-Meter
+https://github.com/richardhosking/PowerMeterKICAD/tree/main/PowerMeter
+
+https://vk6nx.net/SWR-PWRmeter_v1.0-en.html
+
+
+https://github.com/StarNiell/ArduinoSwrPowerMeter
+https://www.aliexpress.com/item/1005011654339488.html?spm=a2g0o.productlist.main.4.5b8d4Jtd4JtdCS&aem_p4p_detail=202603120045149468040452097500000160075&
+New 1.8M-30MHz 3.5-30MHz SWR Bridge RF SWR Reflection Bridge For RF Network
+
+
 
 
 
